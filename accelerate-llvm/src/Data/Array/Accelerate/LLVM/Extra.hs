@@ -17,6 +17,7 @@ import Data.Array.Accelerate.Error
 import Data.Word
 import qualified Data.Bits as B
 
+import GHC.Stack
 
 -- | The number of bits in a type
 --
